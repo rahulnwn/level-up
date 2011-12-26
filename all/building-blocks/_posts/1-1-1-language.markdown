@@ -1,6 +1,6 @@
 ---
 layout: post
 title: Write a programming language
-status: whip
+status: todo
 time: Not started
 ---
